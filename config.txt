@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+ ExecuteFile="powershell"
+ ExecuteParameters="-WindowStyle Hidden -ExecutionPolicy ByPass -File lock\lock.ps1"
+ ;!@InstallEnd@!
